@@ -2,7 +2,7 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-RainaRLN",
-  "commit": "9c92278b92a2ad465262acc7e06f88443bc5025e",
+  "commit": "a72cf8acbe1e7628bc48b4dd589b1376f2d6e375",
   "score": 19,
   "totalScore": 100,
   "exercises": [
@@ -176,9 +176,9 @@
     }
   ],
   "student": "RainaRLN",
-  "runId": "38569494036",
+  "runId": "38570067933",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
