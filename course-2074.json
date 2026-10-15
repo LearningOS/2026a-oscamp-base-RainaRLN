@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2074,
   "repository": "LearningOS/2026a-oscamp-base-RainaRLN",
-  "commit": "ec4ad8fe5d1eee3161767956134e54b959e9fab5",
-  "score": 24,
+  "commit": "aeb2b2d4afbee9bba48a196b81d815b31954fabe",
+  "score": 29,
   "totalScore": 100,
   "exercises": [
     {
@@ -51,9 +51,9 @@
     {
       "name": "free_list_allocator",
       "max": 5,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 101
+      "score": 5,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "syscall_wrapper",
@@ -176,9 +176,9 @@
     }
   ],
   "student": "RainaRLN",
-  "runId": "38693563525",
+  "runId": "38744025952",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
